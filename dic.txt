@@ -11,14 +11,14 @@ day: 7
 one: 7
 that: 7
 with: 5
+shall: 4
 to: 4
-all: 3
 down: 3
 in: 3
 made: 3
-shall: 3
 able: 2
 alabama: 2
+all: 2
 black: 2
 boys: 2
 by: 2
@@ -100,7 +100,6 @@ rise: 1
 rough: 1
 see: 1
 self: 1
-sh: 1
 sisters: 1
 sit: 1
 skin: 1

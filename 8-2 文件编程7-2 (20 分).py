@@ -8,5 +8,5 @@ for line in file.readlines():
             number+=1
         else:
             others+=1
-print(letter,number,others)
+print('letter: %d, number: %d, others: %d'%(letter,number,others))
 file.close()

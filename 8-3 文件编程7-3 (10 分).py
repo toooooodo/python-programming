@@ -1,5 +1,5 @@
-srcFile=open('freedom.txt','rt')
-dicFile=open('dic.txt','wt')
+srcFile=open('freedom.txt','rt',encoding='UTF-8')
+dicFile=open('dic.txt','wt',encoding='UTF-8')
 
 strs=srcFile.read()
 for k in set([i for i in strs if i.isalnum()==False and i!='_']):
